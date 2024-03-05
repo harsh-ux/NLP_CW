@@ -12,6 +12,8 @@ All the experiments and evaluation run for RoBERTa base model are documented in 
 
 All the HybridLSTM experiments are documented in `code/HybridLSTM/`
 
+All the Baseline experiments are documented in `code/Baselines.ipynb`
+
 ## Data Analysis
 
 For Data Preprocessing and Analysis, please see `code/data_preprocessing_and_analysis.ipynb`.
